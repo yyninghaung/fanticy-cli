@@ -1,2 +1,2 @@
 # fanticy-cli
-this is a fanticy-lci
+this is a fanticy-cli
