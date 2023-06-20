@@ -11,7 +11,9 @@
     "noUnusedParameters": false,
     "moduleResolution": "node",
     "baseUrl": "./",
-    "paths": {},
+    "paths": {
+      "fan-cli": ["packages/core/fan-cli/src"],
+    },
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "resolveJsonModule": true
