@@ -1,0 +1,43 @@
+{
+  "name": "fan-cli",
+  "version": "1.0.0",
+  "description": "fan cli",
+  "author": "凝雨 <ningyu@qunhemail.com>",
+  "homepage": "https://github.com/yyninghaung/fanticy-cli#readme",
+  "license": "MIT",
+  "bin": {
+    "fan": "bin/fan.js"
+  },
+  "main": "lib/fan-cli.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://npm-registry.qunhequnhe.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyninghaung/fanticy-cli.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/fan-cli.test.js"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/yyninghaung/fanticy-cli/issues"
+  },
+  "dependencies": {
+    "@types/inquirer": "^8.1.3",
+    "chalk": "^4.0.0",
+    "commander": "^9.0.0",
+    "figlet": "^1.6.0",
+    "fs-extra": "10.0.0",
+    "inquirer": "^8.0.0"
+  }
+}
