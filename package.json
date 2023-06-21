@@ -54,7 +54,8 @@
   },
   "sideEffects": false,
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "engines": {
     "node": ">=10.0.0"
