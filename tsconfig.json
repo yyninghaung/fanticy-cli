@@ -12,7 +12,7 @@
     "moduleResolution": "node",
     "baseUrl": "./",
     "paths": {
-      "fan-cli": ["packages/core/fan-cli/src"],
+      "@fanticy/fan-cli": ["packages/core/fan-cli/src"],
     },
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,

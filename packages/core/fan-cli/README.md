@@ -1,11 +1,11 @@
-# `fan-cli`
+# `@fanticy/fan-cli`
 
 > TODO: description
 
 ## Usage
 
 ```
-const fanCli = require('fan-cli');
+const fanCli = require('@fanticy/fan-cli');
 
 // TODO: DEMONSTRATE API
 ```
