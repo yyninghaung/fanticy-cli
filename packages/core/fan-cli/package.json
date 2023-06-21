@@ -17,7 +17,8 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://npm-registry.qunhequnhe.com/"
+    "registry": "http://npm-registry.qunhequnhe.com/",
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -39,5 +40,6 @@
     "figlet": "^1.6.0",
     "fs-extra": "10.0.0",
     "inquirer": "^8.0.0"
-  }
+  },
+  "gitHead": "1ec24114de617e1c7b7ae40056dc08061b5b070e"
 }
