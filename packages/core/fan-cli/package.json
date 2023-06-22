@@ -1,5 +1,5 @@
 {
-  "name": "@fanticy/fan-cli",
+  "name": "fan-cli",
   "version": "1.0.4-alpha.0",
   "description": "fan cli",
   "author": "凝雨 <ningyu@qunhemail.com>",
@@ -41,5 +41,5 @@
     "fs-extra": "10.0.0",
     "inquirer": "^8.0.0"
   },
-  "gitHead": "d5eca5ac44618550710ccde51ab33e1e9a1e89e4"
+  "gitHead": "3f8e275a28a7fcaf63521504de13cb7d85d6fbc6"
 }
